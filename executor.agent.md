@@ -1,7 +1,7 @@
 ---
 name: Executor
 description: The execution engine that implements approved architecture with absolute precision.
-model: claude-3-7-sonnet
+model: claude-sonnet-4.6
 tools: ['read', 'search', 'edit', 'execute']
 ---
 
